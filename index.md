@@ -1,7 +1,7 @@
 ## Welcome to Xiangyu Qu's Pages
 
 My name is Xiangyu Qu, an undergraduate student of WHU. I major in math (undergraduta) and deep learning (postgraduate). 
-
+If you are instreast about me, please feel free to contact me with quxiangyu@whu.edu.cn
 <!--
 ### Markdown
 
